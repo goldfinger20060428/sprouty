@@ -1,0 +1,45 @@
+<aiml version="2.0">
+
+    <!-- Student Opportunities -->
+    <category>
+        <pattern>STUDENT OPPORTUNITIES</pattern>
+        <template>We offer various student opportunities, including Student Clubs, Student Council with Mr. Greg, Teaching Assistants during the summer, Teaching Assistants for the elementary Orchestra with Ms. Moon or Ms. Shin, and Praise Team.</template>
+    </category>
+
+    <!-- Student Clubs -->
+    <category>
+        <pattern>STUDENT CLUBS</pattern>
+        <template>Our Student Clubs provide a platform for students to engage in various activities and interests.</template>
+    </category>
+
+    <!-- Student Council with Mr. Greg -->
+    <category>
+        <pattern>STUDENT COUNCIL MR. GREG</pattern>
+        <template>Mr. Greg leads our Student Council, which represents student interests and organizes various events and initiatives.</template>
+    </category>
+
+    <!-- Teaching Assistants during the summer -->
+    <category>
+        <pattern>TAS DURING THE SUMMER</pattern>
+        <template>We have Teaching Assistant opportunities available during the summer.</template>
+    </category>
+
+    <!-- Teaching Assistants for elementary Orchestra with Ms. Moon or Ms. Shin -->
+    <category>
+        <pattern>TAS FOR ELEMENTARY ORCHESTRA</pattern>
+        <template>You can become a Teaching Assistant for the elementary Orchestra, working with either Ms. Moon or Ms. Shin.</template>
+    </category>
+
+    <!-- Praise Team -->
+    <category>
+        <pattern>PRAISE TEAM</pattern>
+        <template>The Praise Team is a great opportunity for those interested in music and worship.</template>
+    </category>
+
+    <!-- Secondary Orchestra with Symphony Orchestra led by Ms. Moon -->
+    <category>
+        <pattern>SECONDARY ORCHESTRA SYMPHONY ORCHESTRA MS. MOON</pattern>
+        <template>The Secondary Orchestra, known as the Symphony Orchestra, is led by Ms. Moon.</template>
+    </category>
+
+</aiml>
