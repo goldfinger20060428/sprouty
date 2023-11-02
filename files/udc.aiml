@@ -6,7 +6,31 @@
   </category>
 <category>
     <pattern>hello</pattern>
-    <template>Hello, Sprouty.</template>
+    <template>Hello, nice to meet you ask me anything!
+<button>
+    <text>Insert Text</text>
+    <postback>Insert Postback</postback>
+</button>
+<button>
+    <text>Insert Text</text>
+    <postback>Insert Postback</postback>
+</button>
+<button>
+    <text>Insert Text</text>
+    <postback>Insert Postback</postback>
+</button>
+<button>
+    <text>Insert Text</text>
+    <postback>Insert Postback</postback>
+</button>
+<button>
+    <text>Insert Text</text>
+    <postback>Insert Postback</postback>
+</button>
+<button>
+    <text>Insert Text</text>
+    <postback>Insert Postback</postback>
+</button></template>
 </category>
 <category>
     <pattern></pattern>
